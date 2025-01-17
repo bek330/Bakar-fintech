@@ -17,4 +17,4 @@ This project implements the coding assignment for the Junior Front-End Developer
 
 ## Notes
 
-The CVC is masked for security reasons. The transaction data is currently loaded from a local JSON file ('src/transactions.json').
+The CVC is masked for security reasons. The transaction data is currently loaded from a local JSON file ('src/transactions.json').# Bakar-fintech
