@@ -1,0 +1,10 @@
+{
+    "cardNumber": "**** **** **** 0153",
+    "expiryDate": "10/26",
+    "cvc": "...",
+    "cardBrand": "Visa",
+    "cardholder": "Jenny Rosen",
+    "cardType": "Virtual",
+    "createdAt": "Nov 15, 2023, 9:32 PM",
+    "billingAddress": "123 Main Street, San Francisco, CA, 94111, US"
+  }
