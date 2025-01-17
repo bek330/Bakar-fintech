@@ -5,7 +5,7 @@ import './index.css'; // Import tailwind styles
 
 function App() {
   return (
-    <div className="container mx-auto p-4">
+    <div id="root">
       <CardInfo />
       <TransactionsTable />
     </div>
