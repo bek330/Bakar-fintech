@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Card, CardContent, CardHeader, Text, Button, Container } from '@shadcn/ui';
+import cardData from 'cardData.json';
 
 const CardInfo = () => {
   const [cardData, setCardData] = useState(null);
